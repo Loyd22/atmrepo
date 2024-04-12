@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p3lmy9lcEQ8O04DDPeRVb55ziQaWZOvCtaVyKulxVuyiRWNFiysd6hmAdDZtTw102kygACnF2pWYCo6xaaYH5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\atm5\\atm5\\atm5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
